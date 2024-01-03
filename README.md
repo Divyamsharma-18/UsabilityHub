@@ -1,4 +1,4 @@
-# UsabilityHub-Clone
+Deployed on Netlify - https://usabilityhub-divyamsharma.netlify.app/#
 <h1>Technologies used are-</h1>
 <h3>HTML<br>
 CSS<br>
