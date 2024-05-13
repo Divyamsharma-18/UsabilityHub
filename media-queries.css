@@ -12,6 +12,7 @@
         overflow: initial;
     }
 
+    @media screen and (max-width: 991px) {
     .nav-links {
         position: absolute;
         background-color: white;
@@ -20,11 +21,14 @@
         width: 100%;
         padding-block: 20px;
         transition: 0.2s ease-out;
+        display: none; /* Hide the nav links by default */
     }
 
-    .nav-links.active{
+    .nav-links.active {
         left: 0;
+        display: block; /* Show the nav links when active */
     }
+}
 
     .nav-links ul{
         flex-direction: column;
