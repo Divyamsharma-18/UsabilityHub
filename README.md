@@ -50,3 +50,5 @@ This project was a layout & UI practice challenge I gave myself: build a full la
 ---
 
 ## 📸 Preview
+
+<img width="1899" height="1079" alt="Image" src="https://github.com/user-attachments/assets/642c5fbe-46c9-4151-81e0-d0ba08483bff" />
